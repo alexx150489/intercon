@@ -1,0 +1,143 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Ellipse-1 {
+    width: 62px;
+    height: 31px;
+    background-position: -10px -10px;
+}
+
+.sprite-arrow {
+    width: 74px;
+    height: 56px;
+    background-position: -92px -10px;
+}
+
+.sprite-arrow-1 {
+    width: 59px;
+    height: 70px;
+    background-position: -186px -10px;
+}
+
+.sprite-arrow-up {
+    width: 18px;
+    height: 11px;
+    background-position: -265px -10px;
+}
+
+.sprite-bulb {
+    width: 42px;
+    height: 43px;
+    background-position: -303px -10px;
+}
+
+.sprite-cash {
+    width: 35px;
+    height: 45px;
+    background-position: -365px -10px;
+}
+
+.sprite-clock {
+    width: 42px;
+    height: 42px;
+    background-position: -420px -10px;
+}
+
+.sprite-cup {
+    width: 44px;
+    height: 43px;
+    background-position: -482px -10px;
+}
+
+.sprite-fb {
+    width: 10px;
+    height: 18px;
+    background-position: -546px -10px;
+}
+
+.sprite-features-icon {
+    width: 35px;
+    height: 45px;
+    background-position: -576px -10px;
+}
+
+.sprite-features-icon2 {
+    width: 48px;
+    height: 36px;
+    background-position: -631px -10px;
+}
+
+.sprite-features-icon3 {
+    width: 52px;
+    height: 50px;
+    background-position: -699px -10px;
+}
+
+.sprite-features-icon4 {
+    width: 48px;
+    height: 55px;
+    background-position: -771px -10px;
+}
+
+.sprite-features-icon5 {
+    width: 60px;
+    height: 52px;
+    background-position: -839px -10px;
+}
+
+.sprite-file {
+    width: 41px;
+    height: 41px;
+    background-position: -919px -10px;
+}
+
+.sprite-hummer {
+    width: 44px;
+    height: 43px;
+    background-position: -980px -10px;
+}
+
+.sprite-mail {
+    width: 24px;
+    height: 18px;
+    background-position: -1044px -10px;
+}
+
+.sprite-mark {
+    width: 31px;
+    height: 46px;
+    background-position: -1088px -10px;
+}
+
+.sprite-mark2 {
+    width: 14px;
+    height: 20px;
+    background-position: -1139px -10px;
+}
+
+.sprite-tel {
+    width: 19px;
+    height: 19px;
+    background-position: -1173px -10px;
+}
+
+.sprite-tick {
+    width: 18px;
+    height: 13px;
+    background-position: -1212px -10px;
+}
+
+.sprite-vk {
+    width: 22px;
+    height: 12px;
+    background-position: -1250px -10px;
+}
+
+.sprite-white-arrow {
+    width: 72px;
+    height: 43px;
+    background-position: -1292px -10px;
+}
