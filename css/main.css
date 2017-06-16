@@ -137,7 +137,7 @@ header {width:100%;}
 
 .block-promo {
 	min-height: 691px;
-	background: #4579a1 url("../images/promo-bg.jpg") 0 0 no-repeat;
+	background: #4579a1 url(../images/promo-bg.jpg) top center no-repeat;
 }
 
 .block-promo .promo-text {
@@ -483,10 +483,11 @@ header {width:100%;}
 	 ========================================================================== */
 
 .block-features3 {
-	background: #1c5bb4 url("../images/features-bg.jpg") 0 0 no-repeat;
+	background: #1c5bb4 url("../images/features-bg.jpg") top center no-repeat;
 	min-height: 432px;
 	padding-top: 71px;
 }
+
 .block-features3 h2 {
 	margin-bottom: 64px;
 	font-family: "Roboto-Light", sans-serif;
@@ -593,9 +594,13 @@ header {width:100%;}
 	 ========================================================================== */
 
 .block-info1 {
+	background-color: #fff;
+}
+
+.info1-wrapper {
 	padding-top: 117px;
 	padding-bottom: 79px;
-	background:	#fff url("../images/girl.png") 1093px 0 no-repeat;
+	background:	url("../images/girl.png") right 0 no-repeat;
 }
 
 .block-info1 h2 {
@@ -654,11 +659,9 @@ header {width:100%;}
 	 block-info2 >>>
 	 ========================================================================== */
 .block-info2 {
-	position: relative;
 	min-height: 661px;
 	padding-top: 141px;
-	background: #c1d9ab url("../images/info2-bg.jpg") 14px 0 no-repeat;
-	overflow: hidden;
+	background: #c1d9ab url(../images/info2-bg.jpg) left center no-repeat;
 }
 
 .block-info2::after {
@@ -674,8 +677,8 @@ header {width:100%;}
 }
 
 .block-info2-box {
-	position: relative;
-	left: 572px;
+	float: right;
+	margin-right: 186px;
 	width: 794px;
 	height: 384px;
 	padding-top: 60px;
