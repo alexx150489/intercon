@@ -659,6 +659,7 @@ header {width:100%;}
 	 block-info2 >>>
 	 ========================================================================== */
 .block-info2 {
+	position: relative;
 	min-height: 661px;
 	padding-top: 141px;
 	background: #c1d9ab url(../images/info2-bg.jpg) no-repeat;
