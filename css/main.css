@@ -661,7 +661,8 @@ header {width:100%;}
 .block-info2 {
 	min-height: 661px;
 	padding-top: 141px;
-	background: #c1d9ab url(../images/info2-bg.jpg) left center no-repeat;
+	background: #c1d9ab url(../images/info2-bg.jpg) no-repeat;
+	background-position: center center;
 }
 
 .block-info2::after {
